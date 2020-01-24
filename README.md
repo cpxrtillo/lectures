@@ -1,2 +1,2 @@
 # Lectures
-CS 212 Software Development • Fall 2019
+CS 212 Software Development • Spring 2020
